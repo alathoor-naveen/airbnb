@@ -1,0 +1,88 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 600px;
+}
+.nav-1{
+   height: 50px;
+   width: 100vh;
+   display: flex;
+   border-radius: 50px;
+   justify-content: space-between;
+   align-items: center;
+   margin-left: 270px;
+   padding: 20px;
+   background-color: lightblue;  
+}
+.sticky{
+    top: 0;
+    position: sticky;
+}
+.nav-2{
+    display: flex;
+    justify-content: space-around;
+}
+.img-c1{
+    display: flex;
+}
+.img-c2{
+    display: flex;
+}
+.img-c3{
+    display: flex;
+}
+.img-c4{
+    display: flex;
+}
+
+.img-1{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.img-t{
+    display: flex;
+    justify-content: space-around;
+}
+.img-2{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+     border-radius: 10px;
+}.img-3{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}.img-4{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}.img-5{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.img-6{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.img-7{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.img-8{
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}
